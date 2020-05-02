@@ -1,5 +1,5 @@
 # codes
-INSAID EDA Project
+Twitter_FB_EDA
 
 
 
@@ -10,7 +10,7 @@ The segment that is more active on FB could be targetted on FB for marketing cam
 
 
 
-INSAID ML1 Project
+Insurance_Response_Prediction
 
 
 
