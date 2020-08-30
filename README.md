@@ -1,5 +1,5 @@
-# codes
-_ Twitter_FB_EDA
+
+# Twitter FB EDA
 
 
 
@@ -10,8 +10,7 @@ The segment that is more active on FB could be targetted on FB for marketing cam
 
 
 
-_ Insurance_Response_Prediction
-
+# Insurance_Response_Prediction
 
 
 The analysis is done on Insurance dataset to predict the Response(Target variable). The algorithms used are logistic regression and randomg forest. Random Forest performed well. The validations used as : Confusion matrix, accuracy matrix, recall score. 
@@ -20,7 +19,7 @@ The analysis is done on Insurance dataset to predict the Response(Target variabl
 
 
 
-_ SuperStore Preprocessing
+# SuperStore Preprocessing
 
 
 
@@ -31,7 +30,7 @@ The dataset is processed to have the train and test datasets prepared.
 
 
 
-_ Tambola Problem
+# Tambola Problem
 
 
 
