@@ -1,5 +1,5 @@
 # codes
-Twitter_FB_EDA
+_Twitter_FB_EDA
 
 
 
@@ -10,7 +10,7 @@ The segment that is more active on FB could be targetted on FB for marketing cam
 
 
 
-Insurance_Response_Prediction
+_Insurance_Response_Prediction
 
 
 
@@ -20,7 +20,7 @@ The analysis is done on Insurance dataset to predict the Response(Target variabl
 
 
 
-SuperStore Preprocessing
+_SuperStore Preprocessing
 
 
 
@@ -31,7 +31,7 @@ The dataset is processed to have the train and test datasets prepared.
 
 
 
-Tambola Problem
+_Tambola Problem
 
 
 
