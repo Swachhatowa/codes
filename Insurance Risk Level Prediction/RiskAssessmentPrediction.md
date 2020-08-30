@@ -1,5 +1,6 @@
 
 # Insurance Risk Assessment
+![image.jpg](Insurance_image.jpg)
 
 ### Brief on Risk Assessment
 - Risk Assessment is also called as underwriting. This is a method that insurers use for evaluating and assessing the risk associated with the Insurance policies.It also helps in deciding the premium for an Insurance Policy.
@@ -20,7 +21,7 @@
 - Insurer's Insurance History
 - Insurance Policy Information
 - Target Variable: Risk Band (8 risk bands are provided)
-More details could be found in the Jupyter Notebook
+More details could be found in the Jupyter Notebook alongwith the dataset link
 
 ### Data Analysis
 - Imbalanced Target Variable
