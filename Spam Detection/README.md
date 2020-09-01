@@ -3,6 +3,7 @@ With the increase in digital communication, all of us receive lot of communicati
 This has certainly made the life much easier since it is fulfilling a number of communication needs. At the same time, when this medium is used outside its purpose it can turn out to be dangerous for recipient's information security. In this scenario, the need to identify a text message to be a spam or not spam becomes very important. 
 
 
+
 ### Objective/Problem Statement
 Predict the spam vs non spam based on the given text messages
 
@@ -12,6 +13,8 @@ Predict the spam vs non spam based on the given text messages
 
 ### EDA
 - Classes Spam vs Non Spam are imbalanced. 
+- wordcloud_Spam
+- wordcloud_NotSpam
 
 ### Model used
 - Naive Bayes
