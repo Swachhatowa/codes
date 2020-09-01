@@ -2,6 +2,10 @@
 
 The Customer Segmentation is important to get the most out of the money spent on product targetting. Identifying the best customer and reaching them on the best media would certainly make the product/service promotion more efficient.
 
+<img src="customersegmentation.jpg" width="250" height="250">
+
+
+
 ### Objective/Problem Statement
 - User segmentation in Facebook vs Twitter
 - Which user segment to target in which platform- Twitter or Facebook for product promotion
