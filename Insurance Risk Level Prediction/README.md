@@ -10,7 +10,7 @@
 - With the help of historical data on various parameters like demography, medical history, employment, work history etc of the applicant, the risk level bands could be predicted with various ML classification algorithms.
 
 ### Objective/Problem Statement
-- Predict Risk levels given diffrent attributes of the applicant and policy.
+- Predict Risk levels given different attributes of the applicant and policy.
 
 ### Available Data
 - Product Info
