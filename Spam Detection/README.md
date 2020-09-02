@@ -2,7 +2,7 @@
 With the increase in digital communication, all of us receive lot of communications through sms, emails and other digital mode. 
 This has certainly made the life much easier since it is fulfilling a number of communication needs. At the same time, when this medium is used outside its purpose it can turn out to be dangerous for recipient's information security. In this scenario, the need to identify a text message to be a spam or not spam becomes very important. 
 
-<img src="spam.jpg" width="300" height="100"> <img src="notspam.jpg" width="300" height="100">
+<img src="spam.png" width="300" height="300"> <img src="notspam.png" width="300" height="300">
 
 ### Objective/Problem Statement
 Predict the spam vs non spam based on the given text messages
